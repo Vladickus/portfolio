@@ -1,2 +1,0 @@
-# portfolio
-resume and portfolio
