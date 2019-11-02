@@ -1,0 +1,26 @@
+
+ Ф.И.О: Базин Владислав Владимирович
+
+ e-mail: colob@ngs.ru
+
+ место жительства: Россия, Новосибирск, Академгородок
+
+ место работы: ООО ТД "Восточные запчасти"
+
+ должность: юрист, Томский Государственный Универсистет
+
+ образование: 1) Высшее юридическое, юрист (Томский Государственный Универсистет)
+              2) Неполное высшее техническое, инженер-программист (СибГУТИ)
+              3) Certificate (Open University, Bussiness school), менеджер
+
+ навыки:
+ 1) программирование (Java (Sun JDK), ActionScript (Macromedia Flash), C/C++ (GnuCC, Borland C++) )
+ 2) графика (растровая - Adobe Photoshop, векторная - Adobe Illustrator)  
+ 3) web-дизайн, epub (HTML, SVG, CSS, JavaScript)
+ 4) видеомонтаж (Uleab Media Studio Pro, SONY Vegas Pro, Sonic Scenarist)
+ 5) анимация (Macromedia Flash)
+ 6) микроэлектроника (AVR microcontrollers assembler/C, Arduino)
+
+ cсылка: http://github.com ...
+
+
